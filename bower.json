@@ -1,0 +1,26 @@
+{
+  "name": "typeScript-training",
+  "authors": [
+    "Mateo Carvajal"
+  ],
+  "description": "type script training and examples",
+  "main": "app/scripts/app.ts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-aria": "1.4.3",
+    "angular-material-icons": "0.6.0",
+    "angular-messages": "1.4.3",
+    "angular-route": "1.4.3",
+    "angular-ui-router": "^0.2.18"
+  },
+  "appPath": "app",
+  "resolutions": {
+    "angular": ">1.3.x"
+  }
+}
